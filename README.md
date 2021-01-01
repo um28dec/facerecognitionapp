@@ -1,3 +1,8 @@
+Face Recognition App
+
+Deployed on Heroku : https://facerecog-umang.herokuapp.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
